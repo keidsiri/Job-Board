@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk.Web"> <!--tell compiler we are using Microsoft.NET.Sdk a development kit which contains the C# language and many libraries-->
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework> <!--Tells the compiler to use the .NET 5 framework to build the file, which contains a lot of our code libraries -->
+  </PropertyGroup>
+
+</Project>
